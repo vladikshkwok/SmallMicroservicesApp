@@ -1,4 +1,4 @@
-package ru.vladikshk.customer;
+package ru.vladikshk.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
